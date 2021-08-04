@@ -1,4 +1,3 @@
-<p align="center"><img width="50%" src="_static/gluon_logo_horizontal_small.png" /></p>
 
 # The Gluon API Specification
 The Gluon API specification is an effort to improve speed, flexibility, and accessibility of deep learning technology for all developers, regardless of their deep learning framework of choice. The Gluon API offers a flexible interface that simplifies the process of prototyping, building, and training deep learning models without sacrificing training speed. It offers four distinct advantages:
@@ -91,5 +90,4 @@ A Jupyter notebook of this code has been [provided for your convenience](tutoria
 To learn more about the Gluon interface and deep learning, you can reference this [comprehensive set of tutorials](http://gluon.mxnet.io/), which covers everything from an introduction to deep learning to how to implement cutting-edge neural network models.
 
 
-## License
-[Apache 2.0](https://github.com/gluon-api/gluon-api/blob/master/LICENSE)
+
